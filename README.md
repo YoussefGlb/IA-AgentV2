@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README – test.ipynb
 
 ## Description
@@ -56,4 +55,3 @@ Ce fichier est surtout un **notebook de test pour apprendre à utiliser les mod�
 =======
 # IA-agentic
 repo avec les tp de ia agentic
->>>>>>> 2d0d74fb54d10dcb7e8dcd96026d70ac283fc973
